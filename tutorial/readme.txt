@@ -1,3 +1,6 @@
+Followed main Redis client for Node:
+https://github.com/mranney/node_redis
+
 This command starts the redis server. 
 
 $ redis-server
